@@ -1,0 +1,25 @@
+{
+  "name": "Oarabile Trading Enterprise (Pty) Ltd",
+  "short_name": "Oarabile",
+  "description": "Oarabile Trading Enterprise (Pty) Ltd is a Potchefstroom-based, South African construction and project management company providing civil construction, building maintenance, infrastructure works and goods supply and delivery. Established in 2013.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#171d2d",
+  "theme_color": "#e9b527",
+  "lang": "en-ZA",
+  "icons": [
+    {
+      "src": "/brand/oarabile-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/brand/oarabile-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

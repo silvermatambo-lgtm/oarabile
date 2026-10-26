@@ -1,0 +1,194 @@
+{
+  "templateVersion": "6.0.0",
+  "mode": "client-ready",
+  "clientId": "oarabile-trading-enterprise",
+  "brand": {
+    "name": "Oarabile Trading Enterprise (Pty) Ltd",
+    "shortName": "Oarabile Trading",
+    "tagline": "Built on integrity. Delivered with excellence.",
+    "description": "Oarabile Trading Enterprise (Pty) Ltd is a Potchefstroom-based, South African construction and project management company providing civil construction, building maintenance, infrastructure works and goods supply and delivery. Established in 2013.",
+    "domain": "https://www.oarabiletrading.co.za",
+    "logo": "/brand/oarabile-logo.png",
+    "accent": "#e9b527",
+    "accentDark": "#b8870a",
+    "aboutIntro": "Established in 2013, Oarabile Trading Enterprise (Pty) Ltd is a privately owned South African company specialising in general construction, civil construction and project management. Our experience spans building work, roads and paving, water and sanitation, renovations and facility upkeep. The company profile describes Oarabile as 100% black-owned and managed.",
+    "mission": "To build a reputation for integrity, service and diversity — our dependable difference — by managing projects efficiently, coordinating resources responsibly and working to meet and exceed client expectations for quality, cost and time.",
+    "vision": "To be a preferred provider of programme and project management services across multiple disciplines, building enduring client relationships through integrity, performance, value and satisfaction.",
+    "values": [
+      "Integrity",
+      "Passion",
+      "Commitment",
+      "Competence",
+      "Conscientiousness"
+    ],
+    "socialImage": "/brand/social.jpg"
+  },
+  "contact": {
+    "phone": "064 767 9891",
+    "whatsapp": "27647679891",
+    "email": "info@oarabiletrading.co.za",
+    "address": "1429 Mabuya Street, Ikageng, Potchefstroom, 2531, South Africa",
+    "mapEmbedUrl": "https://www.google.com/maps?q=1429%20Mabuya%20Street%2C%20Ikageng%2C%20Potchefstroom&output=embed",
+    "hours": "Visits and consultations by arrangement",
+    "serviceArea": "Potchefstroom, North West and project locations by arrangement",
+    "website": "https://www.oarabiletrading.co.za"
+  },
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "tiktok": "",
+    "linkedin": "",
+    "youtube": ""
+  },
+  "features": {
+    "pwaEnabled": true,
+    "showInstallPrompt": true,
+    "chatAssistant": true,
+    "showTestimonials": false,
+    "showGallery": true
+  },
+  "pwa": {
+    "shortName": "Oarabile",
+    "cacheVersion": "v1",
+    "icon192": "/brand/oarabile-icon-192.png",
+    "icon512": "/brand/oarabile-icon-512.png"
+  },
+  "heroSlides": [
+    {
+      "eyebrow": "BUILDING SOUTH AFRICA SINCE 2013",
+      "heading": "Built with purpose.",
+      "highlight": "Driven by excellence.",
+      "description": "General building, civil construction and infrastructure solutions — delivered with an uncompromising focus on quality, safety and service.",
+      "image": "https://images.pexels.com/photos/5298215/pexels-photo-5298215.jpeg?auto=compress&cs=tinysrgb&w=2000"
+    },
+    {
+      "eyebrow": "CIVIL WORKS & INFRASTRUCTURE",
+      "heading": "Strength in every project.",
+      "highlight": "Precision in every detail.",
+      "description": "From paving and drainage to water systems and roads, we bring practical expertise and coordinated project delivery.",
+      "image": "https://images.pexels.com/photos/10202856/pexels-photo-10202856.jpeg?auto=compress&cs=tinysrgb&w=2000"
+    },
+    {
+      "eyebrow": "MAINTENANCE & SUPPLY",
+      "heading": "Reliable support.",
+      "highlight": "From start to finish.",
+      "description": "Scheduled facility maintenance, building repairs and supply and delivery of goods tailored to each client’s operational requirements.",
+      "image": "https://images.pexels.com/photos/10202865/pexels-photo-10202865.jpeg?auto=compress&cs=tinysrgb&w=2000"
+    }
+  ],
+  "services": [
+    {
+      "id": "construction",
+      "name": "Building & General Construction",
+      "summary": "New builds, alterations, renovations and structural works for commercial and private clients.",
+      "details": "From initial planning and site preparation to supervision and execution, our building work is centred on fit-for-purpose solutions and quality control.",
+      "image": "https://images.pexels.com/photos/5298215/pexels-photo-5298215.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    },
+    {
+      "id": "civil",
+      "name": "Civil & Infrastructure Construction",
+      "summary": "Roads, stormwater drainage, paving, kerbing and associated municipal civil works.",
+      "details": "Our profile includes experience with taxi bays, speed humps, pedestrian walkways, infrastructure and roads.",
+      "image": "https://images.pexels.com/photos/10202856/pexels-photo-10202856.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    },
+    {
+      "id": "maintenance",
+      "name": "Building & Facility Maintenance",
+      "summary": "Repairs, upgrades, plumbing, general maintenance and responsive property upkeep.",
+      "details": "Tailor-made maintenance programmes can be planned around the client’s site requirements, schedule and available budget.",
+      "image": "https://images.pexels.com/photos/8961551/pexels-photo-8961551.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    },
+    {
+      "id": "supply",
+      "name": "Supply & Delivery of Goods",
+      "summary": "Procurement support and delivery of project goods, materials and operational supplies.",
+      "details": "Enquire about the required specifications, quantities, delivery location and timing to discuss a suitable supply solution.",
+      "image": "https://images.pexels.com/photos/14367425/pexels-photo-14367425.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    },
+    {
+      "id": "water",
+      "name": "Water, Sanitation & Sewage",
+      "summary": "Water systems, plumbing, sanitation and associated installation and maintenance work.",
+      "details": "Experience stated in the company profile includes day-to-day plumbing work and installation of water tanks.",
+      "image": "https://images.pexels.com/photos/8961526/pexels-photo-8961526.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    },
+    {
+      "id": "carpentry",
+      "name": "Carpentry, Shopfitting & Finishes",
+      "summary": "Interior fit-outs, carpentry, repairs and selected building finishing services.",
+      "details": "Support for improvements, maintenance and specialist finishes across a range of building requirements.",
+      "image": "https://images.pexels.com/photos/8961526/pexels-photo-8961526.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    },
+    {
+      "id": "fencing",
+      "name": "Security Fencing & External Works",
+      "summary": "Fencing, landscaping, cleaning services and external site improvements.",
+      "details": "Services include security fencing, grounds services, landscaping and site cleaning.",
+      "image": "https://images.pexels.com/photos/13795569/pexels-photo-13795569.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    },
+    {
+      "id": "management",
+      "name": "Project Management & Site Supervision",
+      "summary": "Coordinating the people, timelines, materials, costs and quality controls behind each project.",
+      "details": "Our team brings experience in project management, production management, site supervision, resource planning and client reporting.",
+      "image": "https://images.pexels.com/photos/10202865/pexels-photo-10202865.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "school",
+      "title": "School renovations",
+      "category": "Department of Education · Subcontracted works",
+      "image": "https://images.pexels.com/photos/5298215/pexels-photo-5298215.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    },
+    {
+      "id": "taxi",
+      "title": "Taxi bays, paving & kerbing",
+      "category": "Tlokwe Municipality · Subcontracted works",
+      "image": "https://images.pexels.com/photos/10202856/pexels-photo-10202856.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    },
+    {
+      "id": "toilets",
+      "title": "Construction of public toilets",
+      "category": "Tlokwe Municipality · Subcontracted works",
+      "image": "https://images.pexels.com/photos/8961551/pexels-photo-8961551.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    },
+    {
+      "id": "speed",
+      "title": "Construction of speed humps",
+      "category": "Tlokwe Municipality",
+      "image": "https://images.pexels.com/photos/10202865/pexels-photo-10202865.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    },
+    {
+      "id": "health",
+      "title": "Water tank supply & installation",
+      "category": "Department of Health · Ventersdorp Hospital",
+      "image": "https://images.pexels.com/photos/14367425/pexels-photo-14367425.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    },
+    {
+      "id": "generator",
+      "title": "100 kVA generator supply & installation",
+      "category": "Department of Public Works · Health facility",
+      "image": "https://images.pexels.com/photos/8961526/pexels-photo-8961526.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    }
+  ],
+  "testimonials": [],
+  "faqs": [
+    {
+      "question": "What construction services do you provide?",
+      "answer": "We provide general construction, civil and infrastructure works, building and facility maintenance, water and sanitation, carpentry, paving, security fencing, and related services."
+    },
+    {
+      "question": "Can you help with supply and delivery?",
+      "answer": "Yes. Please share the product description, quantities, delivery location and target date so we can discuss availability and a quotation."
+    },
+    {
+      "question": "Where are you based?",
+      "answer": "Our office is at 1429 Mabuya Street, Ikageng, Potchefstroom, 2531. Other project locations can be discussed according to scope and requirements."
+    },
+    {
+      "question": "How can I request a quote?",
+      "answer": "Complete the enquiry form on the Contact page or contact us on 064 767 9891 or info@oarabiletrading.co.za."
+    }
+  ]
+}
